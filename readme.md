@@ -5,7 +5,7 @@ Run this commands:
 1. **curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -**
 2. **sudo apt-get install -y nodejs**
 
-# Chakram Install
+# Cypress Install
 Run this command: **npm install cypress**
 
 ---
